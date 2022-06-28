@@ -5,3 +5,6 @@ BAWKOS is a group project created to predict whether a premier league will win, 
 - R Studio
 - R
 - Tidyverse
+
+# Setup 
+- Please refer to the readMe.pdf
